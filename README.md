@@ -18,3 +18,33 @@ Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
 add onenoewline
+
+12.2 Repo were completed at the beginning of the lab, so there was no
+conflicts when completing this step 12.3 Created a new file in RStudio
+for this lab by grabbing the url from github, no difficulty in
+completing this step 12.4 Setting up this step was easy, as I followed
+the step0by-step instructions to commit a message from RStudio so it can
+be pulled into GitHub. Ran into a problem when pushing and pulling the
+file as I did not have a global github completed yet. Had to go back to
+Chapter 7 to fix the problem. Went into the Terminal to add username and
+email. Fixed this problem. 12.5 Ran into another problem when pushing
+and pulling message as branches were unmerged. Found out we needed to be
+working in RMarkdown file instead and needed to knit the message and
+remove the heading. After doing this and committing, pushing and pulling
+the message, it went through to Github. 12.6 Confirmed that the push
+worked in Github, completed the lab correctly.
+
+Christopher Moseley 12.3: no errors on my part, RStudio was successfully
+connected to git and created the new local branch with no problems
+
+12.4: Once again, no errors on my part. easy enough to stage and commit
+by following the instructions using the stage and commit buttons in the
+top right then entering the message and hitting commit again in the pop
+up window
+
+12.5: I had no errors with the push because I did it first for the team,
+Ethan had a merge conflict that had to be resolved following his
+attempt. Simply removed the error lines, pulled again the pushed to git.
+
+12.6: Once the merge conflict was resolved there were no issues on
+github, commits were there for both of us meaning successful start.
