@@ -20,3 +20,14 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 
 add onenoewline
+
+
+
+Christopher Moseley
+12.3: no errors on my part, RStudio was successfully connected to git and created the new local branch with no problems
+
+12.4: Once again, no errors on my part. easy enough to stage and commit by following the instructions using the stage and commit buttons in the top right then entering the message and hitting commit again in the pop up window
+
+12.5: I had no errors with the push because I did it first for the team, Ethan had a merge conflict that had to be resolved following his attempt. Simply removed the error lines, pulled again the pushed to git.
+
+12.6: Once the merge conflict was resolved there were no issues on github, commits were there for both of us meaning successful start.
