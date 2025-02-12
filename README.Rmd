@@ -20,3 +20,9 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 
 
 add onenoewline
+
+12.2 Repo were completed at the beginning of the lab, so there was no conflicts when completing this step
+12.3 Created a new file in RStudio for this lab by grabbing the url from github, no difficulty in completing this step
+12.4 Setting up this step was easy, as I followed the step0by-step instructions to commit a message from RStudio so it can be pulled into GitHub. Ran into a problem when pushing and pulling the file as I did not have a global github completed yet. Had to go back to Chapter 7 to fix the problem. Went into the Terminal to add username and email. Fixed this problem. 
+12.5 Ran into another problem when pushing and pulling message as branches were unmerged. Found out we needed to be working in RMarkdown file instead and needed to knit the message and remove the heading. After doing this and committing, pushing and pulling the message, it went through to Github. 
+12.6 Confirmed that the push worked in Github, completed the lab correctly. 
