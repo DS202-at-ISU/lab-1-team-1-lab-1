@@ -54,9 +54,14 @@ github, commits were there for both of us meaning successful start.
 12.3: I was able to properly clone the repository into RStudio with no
 trouble at all.
 
+12.4: I had no issues when it came to committing my own contributions.
+
+12.5: I had no issues when it came to pushing my contributions into
+Github.
+
 12.6: I did notice the changes in Github made by my lab partners, but
 when it came for me to pull from Github into RStudio I kept on receiving
 an error. The error stated that I needed to commit my changes or stash
 them before I merge files. I was able to solve this by typing “git
-stash” into the terminal and then I was able to succesfully merge my
+stash” into the terminal and then I was able to successfully merge my
 file with the changes made by my partners.
