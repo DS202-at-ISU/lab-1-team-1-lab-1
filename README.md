@@ -65,3 +65,8 @@ an error. The error stated that I needed to commit my changes or stash
 them before I merge files. I was able to solve this by typing “git
 stash” into the terminal and then I was able to successfully merge my
 file with the changes made by my partners.
+
+
+**Nina De Grandis**
+12.3: 
+
