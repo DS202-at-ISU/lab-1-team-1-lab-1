@@ -72,3 +72,6 @@ file with the changes made by my partners.
 
 12.4: It took me a little while to figure out how to edit the file and then commit the changes, but I figured it out.
 
+12.5: I had no issues once I figured out how to push it back to GitHub. 
+
+12.6: All of my commits to the file were successful. 
