@@ -68,5 +68,7 @@ file with the changes made by my partners.
 
 
 **Nina De Grandis**
-12.3: 
+12.3: I was able to clone the repository to RStudio easily. 
+
+12.4: It took me a little while to figure out how to edit the file and then commit the changes, but I figured it out.
 
